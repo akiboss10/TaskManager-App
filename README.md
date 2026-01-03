@@ -12,7 +12,7 @@
 
 | Main Screen | Active Alarm | Permission Shield |
 | :---: | :---: | :---: |
-| <!-- Add your screenshot here --> `[Screenshot 1]` | <!-- Add your screenshot here --> `[Screenshot 2]` | <!-- Add your screenshot here --> `[Screenshot 3]` |
+| <!-- Add your screenshot here --> `[![Image](https://github.com/user-attachments/assets/d920b874-bdc8-445b-beac-638459dea270)]` | <!-- Add your screenshot here --> `[Screenshot 2]` | <!-- Add your screenshot here --> `[Screenshot 3]` |
 
 ---
 

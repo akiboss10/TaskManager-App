@@ -9,9 +9,13 @@
 ---
 
 ## 📸 Screenshots
-![Image](https://github.com/user-attachments/assets/e2b95637-6787-4d03-ad02-7828cf95cf35)
-![Image](https://github.com/user-attachments/assets/664e7724-7439-44d0-ae7e-a4809cac0368)
-![Image](https://github.com/user-attachments/assets/99ef705e-0d6f-4596-9332-e71ef50872fd)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2b95637-6787-4d03-ad02-7828cf95cf35" width="250" />
+  <img src="https://github.com/user-attachments/assets/664e7724-7439-44d0-ae7e-a4809cac0368" width="250" />
+  <img src="https://github.com/user-attachments/assets/99ef705e-0d6f-4596-9332-e71ef50872fd" width="250" />
+</p>
+
 
 
 ## ✨ Features

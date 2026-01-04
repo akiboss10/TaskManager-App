@@ -68,7 +68,7 @@
    ```
 
 4. **Run on Device:**
-   - Install the **Expo Go** app on your Android or iOS device.
+   - Install the **Expo Go** app on your Android.
    - Scan the QR code from the terminal to launch the app.
 
 ---
